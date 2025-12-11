@@ -1,8 +1,8 @@
-# My Portfolio
+# My Old Portfolio 2
 
 A statically-compiled web app built using Next.js 15, It utilizes the GSAP and Framer Motion, and employs components from [Aceternity UI](https://ui.aceternity.com/), [Namer UI](https://namer-ui.netlify.app/), [HextaUI](https://hextaui.com/), and [React Bits](https://www.reactbits.dev/).
 
-Check it out at https://maxim-bortnikov.netlify.app/
+Check it out at https://maxim-bortnikov-old-portfolio.netlify.app/
 
 Features:
 
