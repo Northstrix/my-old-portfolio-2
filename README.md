@@ -4,6 +4,25 @@ A statically-compiled web app built using Next.js 15, It utilizes the GSAP and F
 
 Check it out at https://maxim-bortnikov-old-portfolio.netlify.app/
 
+</br>
+
+To run this web app locally, you need to create or replace the following missing components:
+
+`components/Aurora/Aurora.tsx`
+‎`components/BlurText/BlurText.tsx`
+`components/ClickSpark/ClickSpark.tsx`
+`components/DecryptedText/DecryptedText.tsx`
+`components/LetterGlitch/LetterGlitch.tsx`
+`components/Silk/Silk.tsx`
+
+You can find links to the missing components in the credits section.
+
+Note: The version deployed at https://maxim-bortnikov-old-portfolio.netlify.app/ has these components in place.
+
+</br>
+
+Installation: The missing components should be placed in the src/components directory.
+
 Features:
 
  - Like button
