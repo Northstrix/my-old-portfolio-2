@@ -15,7 +15,7 @@ To run this web app locally, you need to create or replace the following missing
 `components/LetterGlitch/LetterGlitch.tsx`
 `components/Silk/Silk.tsx`
 
-You can find links to the missing components in the credits section.
+You can find links to the missing components in the `Credit` section.
 
 Note: The version deployed at https://maxim-bortnikov-old-portfolio.netlify.app/ has these components in place.
 
